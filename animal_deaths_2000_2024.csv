@@ -1,0 +1,251 @@
+Year,Animal,Annual_Deaths,Region,Cause_of_Death
+2000,Mosquitoes,700000,South America,Zika Virus
+2000,Humans,350000,Latin America,Armed Conflicts
+2000,Snakes,92000,Africa,Venomous Bites
+2000,Dogs,30000,Asia,Rabies
+2000,Scorpions,10000,Africa,Sleeping Sickness
+2000,Assassin Bugs,11000,South America,Chagas Disease
+2000,Crocodiles,10000,Asia,Schistosomiasis
+2000,Elephants,3000,North America,Stings
+2000,Hippopotamus,1000,Australia,Human Encroachment
+2000,Lions,600,Africa,Territorial Aggression
+2001,Mosquitoes,715000,Africa,Malaria Outbreak
+2001,Humans,400000,Asia,Armed Conflicts
+2001,Snakes,95000,Asia,Rural Snakebites
+2001,Dogs,31000,Africa,Rabies
+2001,Scorpions,10500,Democratic Republic of Congo,Sleeping Sickness
+2001,Assassin Bugs,11500,Brazil,Chagas Disease
+2001,Crocodiles,10200,Africa,Schistosomiasis
+2001,Elephants,3200,Egypt,Stings
+2001,Hippopotamus,1100,Africa,Aggressive Attacks
+2001,Lions,700,Uganda,Territorial Aggression
+2002,Mosquitoes,720000,Asia,Dengue Outbreak
+2002,Humans,360000,Africa,Homicides
+2002,Snakes,88000,Asia,Flood-Induced Encounters
+2002,Dogs,28000,Asia,Rabies
+2002,Scorpions,11000,Uganda,Sleeping Sickness
+2002,Assassin Bugs,12000,Colombia,Chagas Disease
+2002,Crocodiles,10500,South America,Schistosomiasis
+2002,Elephants,2800,Asia,Stings
+2002,Hippopotamus,900,Indonesia,Human Encroachment
+2002,Lions,500,Tanzania,Territorial Aggression
+2003,Mosquitoes,710000,South America,Zika Virus
+2003,Humans,395000,Latin America,Armed Conflicts
+2003,Snakes,87000,Africa,Venomous Bites
+2003,Dogs,32000,Asia,Rabies
+2003,Scorpions,10200,Africa,Sleeping Sickness
+2003,Assassin Bugs,11800,South America,Chagas Disease
+2003,Crocodiles,10300,Asia,Schistosomiasis
+2003,Elephants,3100,North America,Stings
+2003,Hippopotamus,1200,Australia,Aggressive Attacks
+2003,Lions,650,Africa,Territorial Aggression
+2004,Mosquitoes,705000,Africa,Malaria Outbreak
+2004,Humans,380000,Asia,Armed Conflicts
+2004,Snakes,89000,Asia,Rural Snakebites
+2004,Dogs,29000,Africa,Rabies
+2004,Scorpions,10800,Democratic Republic of Congo,Sleeping Sickness
+2004,Assassin Bugs,11600,Brazil,Chagas Disease
+2004,Crocodiles,10400,Africa,Schistosomiasis
+2004,Elephants,3300,Egypt,Stings
+2004,Hippopotamus,1300,Africa,Human Encroachment
+2004,Lions,550,Uganda,Territorial Aggression
+2005,Mosquitoes,700000,Asia,Dengue Outbreak
+2005,Humans,350000,Africa,Homicides
+2005,Snakes,92000,Asia,Flood-Induced Encounters
+2005,Dogs,30000,Asia,Rabies
+2005,Scorpions,10000,Uganda,Sleeping Sickness
+2005,Assassin Bugs,11000,Colombia,Chagas Disease
+2005,Crocodiles,10000,South America,Schistosomiasis
+2005,Elephants,3000,Asia,Stings
+2005,Hippopotamus,1000,Indonesia,Aggressive Attacks
+2005,Lions,600,Tanzania,Territorial Aggression
+2006,Mosquitoes,715000,South America,Zika Virus
+2006,Humans,400000,Latin America,Armed Conflicts
+2006,Snakes,95000,Africa,Venomous Bites
+2006,Dogs,31000,Asia,Rabies
+2006,Scorpions,10500,Africa,Sleeping Sickness
+2006,Assassin Bugs,11500,South America,Chagas Disease
+2006,Crocodiles,10200,Asia,Schistosomiasis
+2006,Elephants,3200,North America,Stings
+2006,Hippopotamus,1100,Australia,Human Encroachment
+2006,Lions,700,Africa,Territorial Aggression
+2007,Mosquitoes,720000,Africa,Malaria Outbreak
+2007,Humans,360000,Asia,Armed Conflicts
+2007,Snakes,88000,Asia,Rural Snakebites
+2007,Dogs,28000,Africa,Rabies
+2007,Scorpions,11000,Democratic Republic of Congo,Sleeping Sickness
+2007,Assassin Bugs,12000,Brazil,Chagas Disease
+2007,Crocodiles,10500,Africa,Schistosomiasis
+2007,Elephants,2800,Egypt,Stings
+2007,Hippopotamus,900,Africa,Aggressive Attacks
+2007,Lions,500,Uganda,Territorial Aggression
+2008,Mosquitoes,710000,Asia,Dengue Outbreak
+2008,Humans,395000,Africa,Homicides
+2008,Snakes,87000,Asia,Flood-Induced Encounters
+2008,Dogs,32000,Asia,Rabies
+2008,Scorpions,10200,Uganda,Sleeping Sickness
+2008,Assassin Bugs,11800,Colombia,Chagas Disease
+2008,Crocodiles,10300,South America,Schistosomiasis
+2008,Elephants,3100,Asia,Stings
+2008,Hippopotamus,1200,Indonesia,Human Encroachment
+2008,Lions,650,Tanzania,Territorial Aggression
+2009,Mosquitoes,705000,South America,Zika Virus
+2009,Humans,380000,Latin America,Armed Conflicts
+2009,Snakes,89000,Africa,Venomous Bites
+2009,Dogs,29000,Asia,Rabies
+2009,Scorpions,10800,Africa,Sleeping Sickness
+2009,Assassin Bugs,11600,South America,Chagas Disease
+2009,Crocodiles,10400,Asia,Schistosomiasis
+2009,Elephants,3300,North America,Stings
+2009,Hippopotamus,1300,Australia,Aggressive Attacks
+2009,Lions,550,Africa,Territorial Aggression
+2010,Mosquitoes,700000,Africa,Malaria Outbreak
+2010,Humans,350000,Asia,Armed Conflicts
+2010,Snakes,92000,Asia,Rural Snakebites
+2010,Dogs,30000,Africa,Rabies
+2010,Scorpions,10000,Democratic Republic of Congo,Sleeping Sickness
+2010,Assassin Bugs,11000,Brazil,Chagas Disease
+2010,Crocodiles,10000,Africa,Schistosomiasis
+2010,Elephants,3000,Egypt,Stings
+2010,Hippopotamus,1000,Africa,Human Encroachment
+2010,Lions,600,Uganda,Territorial Aggression
+2011,Mosquitoes,715000,Asia,Dengue Outbreak
+2011,Humans,400000,Africa,Homicides
+2011,Snakes,95000,Asia,Flood-Induced Encounters
+2011,Dogs,31000,Asia,Rabies
+2011,Scorpions,10500,Uganda,Sleeping Sickness
+2011,Assassin Bugs,11500,Colombia,Chagas Disease
+2011,Crocodiles,10200,South America,Schistosomiasis
+2011,Elephants,3200,Asia,Stings
+2011,Hippopotamus,1100,Indonesia,Aggressive Attacks
+2011,Lions,700,Tanzania,Territorial Aggression
+2012,Mosquitoes,720000,South America,Zika Virus
+2012,Humans,360000,Latin America,Armed Conflicts
+2012,Snakes,88000,Africa,Venomous Bites
+2012,Dogs,28000,Asia,Rabies
+2012,Scorpions,11000,Africa,Sleeping Sickness
+2012,Assassin Bugs,12000,South America,Chagas Disease
+2012,Crocodiles,10500,Asia,Schistosomiasis
+2012,Elephants,2800,North America,Stings
+2012,Hippopotamus,900,Australia,Human Encroachment
+2012,Lions,500,Africa,Territorial Aggression
+2013,Mosquitoes,710000,Africa,Malaria Outbreak
+2013,Humans,395000,Asia,Armed Conflicts
+2013,Snakes,87000,Asia,Rural Snakebites
+2013,Dogs,32000,Africa,Rabies
+2013,Scorpions,10200,Democratic Republic of Congo,Sleeping Sickness
+2013,Assassin Bugs,11800,Brazil,Chagas Disease
+2013,Crocodiles,10300,Africa,Schistosomiasis
+2013,Elephants,3100,Egypt,Stings
+2013,Hippopotamus,1200,Africa,Aggressive Attacks
+2013,Lions,650,Uganda,Territorial Aggression
+2014,Mosquitoes,705000,Asia,Dengue Outbreak
+2014,Humans,380000,Africa,Homicides
+2014,Snakes,89000,Asia,Flood-Induced Encounters
+2014,Dogs,29000,Asia,Rabies
+2014,Scorpions,10800,Uganda,Sleeping Sickness
+2014,Assassin Bugs,11600,Colombia,Chagas Disease
+2014,Crocodiles,10400,South America,Schistosomiasis
+2014,Elephants,3300,Asia,Stings
+2014,Hippopotamus,1300,Indonesia,Human Encroachment
+2014,Lions,550,Tanzania,Territorial Aggression
+2015,Mosquitoes,700000,South America,Zika Virus
+2015,Humans,350000,Latin America,Armed Conflicts
+2015,Snakes,92000,Africa,Venomous Bites
+2015,Dogs,30000,Asia,Rabies
+2015,Scorpions,10000,Africa,Sleeping Sickness
+2015,Assassin Bugs,11000,South America,Chagas Disease
+2015,Crocodiles,10000,Asia,Schistosomiasis
+2015,Elephants,3000,North America,Stings
+2015,Hippopotamus,1000,Australia,Aggressive Attacks
+2015,Lions,600,Africa,Territorial Aggression
+2016,Mosquitoes,715000,Africa,Malaria Outbreak
+2016,Humans,400000,Asia,Armed Conflicts
+2016,Snakes,95000,Asia,Rural Snakebites
+2016,Dogs,31000,Africa,Rabies
+2016,Scorpions,10500,Democratic Republic of Congo,Sleeping Sickness
+2016,Assassin Bugs,11500,Brazil,Chagas Disease
+2016,Crocodiles,10200,Africa,Schistosomiasis
+2016,Elephants,3200,Egypt,Stings
+2016,Hippopotamus,1100,Africa,Human Encroachment
+2016,Lions,700,Uganda,Territorial Aggression
+2017,Mosquitoes,720000,Asia,Dengue Outbreak
+2017,Humans,360000,Africa,Homicides
+2017,Snakes,88000,Asia,Flood-Induced Encounters
+2017,Dogs,28000,Asia,Rabies
+2017,Scorpions,11000,Uganda,Sleeping Sickness
+2017,Assassin Bugs,12000,Colombia,Chagas Disease
+2017,Crocodiles,10500,South America,Schistosomiasis
+2017,Elephants,2800,Asia,Stings
+2017,Hippopotamus,900,Indonesia,Aggressive Attacks
+2017,Lions,500,Tanzania,Territorial Aggression
+2018,Mosquitoes,710000,South America,Zika Virus
+2018,Humans,395000,Latin America,Armed Conflicts
+2018,Snakes,87000,Africa,Venomous Bites
+2018,Dogs,32000,Asia,Rabies
+2018,Scorpions,10200,Africa,Sleeping Sickness
+2018,Assassin Bugs,11800,South America,Chagas Disease
+2018,Crocodiles,10300,Asia,Schistosomiasis
+2018,Elephants,3100,North America,Stings
+2018,Hippopotamus,1200,Australia,Human Encroachment
+2018,Lions,650,Africa,Territorial Aggression
+2019,Mosquitoes,705000,Africa,Malaria Outbreak
+2019,Humans,380000,Asia,Armed Conflicts
+2019,Snakes,89000,Asia,Rural Snakebites
+2019,Dogs,29000,Africa,Rabies
+2019,Scorpions,10800,Democratic Republic of Congo,Sleeping Sickness
+2019,Assassin Bugs,11600,Brazil,Chagas Disease
+2019,Crocodiles,10400,Africa,Schistosomiasis
+2019,Elephants,3300,Egypt,Stings
+2019,Hippopotamus,1300,Africa,Aggressive Attacks
+2019,Lions,550,Uganda,Territorial Aggression
+2020,Mosquitoes,700000,Asia,Dengue Outbreak
+2020,Humans,350000,Africa,COVID-19 Pandemic
+2020,Snakes,92000,Asia,Flood-Induced Encounters
+2020,Dogs,30000,Asia,Rabies
+2020,Scorpions,10000,Uganda,Sleeping Sickness
+2020,Assassin Bugs,11000,Colombia,Chagas Disease
+2020,Crocodiles,10000,South America,Schistosomiasis
+2020,Elephants,3000,Asia,Stings
+2020,Hippopotamus,1000,Indonesia,Human Encroachment
+2020,Lions,600,Tanzania,Territorial Aggression
+2021,Mosquitoes,715000,South America,Zika Virus
+2021,Humans,400000,Latin America,COVID-19 Pandemic
+2021,Snakes,95000,Africa,Venomous Bites
+2021,Dogs,31000,Asia,Rabies
+2021,Scorpions,10500,Africa,Sleeping Sickness
+2021,Assassin Bugs,11500,South America,Chagas Disease
+2021,Crocodiles,10200,Asia,Schistosomiasis
+2021,Elephants,3200,North America,Stings
+2021,Hippopotamus,1100,Australia,Aggressive Attacks
+2021,Lions,700,Africa,Territorial Aggression
+2022,Mosquitoes,720000,Africa,Malaria Outbreak
+2022,Humans,360000,Asia,COVID-19 Pandemic
+2022,Snakes,88000,Asia,Rural Snakebites
+2022,Dogs,28000,Africa,Rabies
+2022,Scorpions,11000,Democratic Republic of Congo,Sleeping Sickness
+2022,Assassin Bugs,12000,Brazil,Chagas Disease
+2022,Crocodiles,10500,Africa,Schistosomiasis
+2022,Elephants,2800,Egypt,Stings
+2022,Hippopotamus,900,Africa,Human Encroachment
+2022,Lions,500,Uganda,Territorial Aggression
+2023,Mosquitoes,710000,Asia,Dengue Outbreak
+2023,Humans,395000,Asia,Homicides
+2023,Snakes,87000,Asia,Flood-Induced Encounters
+2023,Dogs,32000,Asia,Rabies
+2023,Scorpions,10200,Uganda,Sleeping Sickness
+2023,Assassin Bugs,11800,Colombia,Chagas Disease
+2023,Crocodiles,10300,South America,Schistosomiasis
+2023,Elephants,3100,Asia,Stings
+2023,Hippopotamus,1200,Indonesia,Aggressive Attacks
+2023,Lions,650,Tanzania,Territorial Aggression
+2024,Mosquitoes,705000,South America,Zika Virus
+2024,Humans,380000,Asia,Armed Conflicts
+2024,Snakes,89000,Africa,Venomous Bites
+2024,Dogs,29000,Asia,Rabies
+2024,Scorpions,10800,Africa,Sleeping Sickness
+2024,Assassin Bugs,11600,South America,Chagas Disease
+2024,Crocodiles,10400,Asia,Schistosomiasis
+2024,Elephants,3300,North America,Stings
+2024,Hippopotamus,1300,Australia,Human Encroachment
+2024,Lions,550,Africa,Territorial Aggression
